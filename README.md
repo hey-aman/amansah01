@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **C++ & JavaScript**
 
-- 👨‍💻 All of my projects are available at [Beauty of North India](Beauty of North India)
-
 - 💬 Ask me about **Web Development or any tech-related stuff.**
 
 - 📫 How to reach me **instagram - @aman_sa.h__**
